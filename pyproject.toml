@@ -1,6 +1,6 @@
 [project]
 name = "path-segment-splitter"
-version = "0.1.0"
+version = "0.1.1"
 description = "Splits a path into its component segments, handling trailing separators, drive letters, and UNC prefixes."
 requires-python = ">=3.10"
 dependencies = []
